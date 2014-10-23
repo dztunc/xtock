@@ -1,6 +1,5 @@
 
 <!DOCTYPE html>
-<!-- outra mudança -->
 <html lang="pt-br">
   <head>
     <meta charset="utf-8">
@@ -12,7 +11,7 @@
 
     <title>X tock</title>
 
-    <!-- Bootstrap core CSS  -->
+    <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->

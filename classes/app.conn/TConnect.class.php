@@ -1,5 +1,6 @@
 <?php 
 #gerencia a conecção com o banco de dados através de um arquivo ".ini"
+#modificado
 
 class XConectar
 {
